@@ -54,6 +54,12 @@ To run this application locally, you'll need Python and `pip`.
 
 The application will open in your default web browser.
 
+## 🔗 Deployed App
+
+You can access the live version of this calculator here:
+
+[LP Rebalancing Cost Calculator](https://il-calculator-zr584unqtx5vwfjdkmgbbe.streamlit.app/)
+
 ## 🤝 Contributing
 
 Feel free to open an issue or submit a pull request if you'd like to improve the calculator, add more features, or correct any assumptions.
